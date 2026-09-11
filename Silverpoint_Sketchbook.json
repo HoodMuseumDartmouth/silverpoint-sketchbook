@@ -1,0 +1,2012 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hood.resourcespace.com/iiif/90848/manifest",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "N/A"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Object ID"
+        ]
+      },
+      "value": {
+        "none": [
+          "90848"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Object Number"
+        ]
+      },
+      "value": {
+        "none": [
+          "D.930.3.1-.6"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Object Name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Drawing"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Artist/Maker"
+        ]
+      },
+      "value": {
+        "none": [
+          "Master F. v. S., Dutch or German, 1600 - 1620 | after Hendrick Goltzius, Dutch, 1558 - 1617 | after Jan van der Straet, Netherlandish, 1523 - 1605 | after Adriaen Collaert, Flemish, 1560 - 1618 | after Giulio Romano, Italian, about 1499 - 1546 | after Rosso Fiorentino, Italian, 1494 - 1540 | after René Boyvin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date Label"
+        ]
+      },
+      "value": {
+        "none": [
+          "about 1610"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Nationality"
+        ]
+      },
+      "value": {
+        "none": [
+          "Dutch or German"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "Master F.v.S Silverpoint Sketchbook"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Research Area"
+        ]
+      },
+      "value": {
+        "none": [
+          "Drawing"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Period"
+        ]
+      },
+      "value": {
+        "none": [
+          "1600-1800"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Geography"
+        ]
+      },
+      "value": {
+        "none": [
+          "Place Made: Netherlands, Europe"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "none": [
+          "Bound album of silverpoint on heavy prepared paper done over in graphite"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "none": [
+          "Overall: 7 5/8 × 4 3/4 × 9/16 in. (19.3 × 12.1 × 1.5 cm)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Subjects"
+        ]
+      },
+      "value": {
+        "none": [
+          "Book | Christianity | Mannerism | Saints | Mary Magdalene | Penitence | Paper | Dutch | Drawing | Copy"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Credit Line"
+        ]
+      },
+      "value": {
+        "none": [
+          "Gift of Professor Arthur Fairbanks, Class of 1886"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Copyright Status"
+        ]
+      },
+      "value": {
+        "none": [
+          "Public Domain"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Use for IIIF?"
+        ]
+      },
+      "value": {
+        "en": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://hood.resourcespace.com/iiif/image/1189364/full/thm/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 141,
+      "width": 175,
+      "service": [
+        {
+          "@id": "https://hood.resourcespace.com/iiif/image/1189364",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://hood.resourcespace.com/iiif/90848/canvas/3",
+      "type": "Canvas",
+      "height": 6079,
+      "width": 3951,
+      "label": {
+        "none": [
+          "Master F.v.S Silverpoint Sketchbook (Front Cover)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/image/1189502/full/thm/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 175,
+          "width": 114,
+          "service": [
+            {
+              "@id": "https://hood.resourcespace.com/iiif/image/1189502",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/90848/canvas/3/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hood.resourcespace.com/iiif/90848/annotation/3",
+              "type": "Annotation",
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "motivation": "painting",
+              "target": "https://hood.resourcespace.com/iiif/90848/canvas/3",
+              "body": {
+                "id": "https://hood.resourcespace.com/iiif/image/1189502/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6079,
+                "width": 3951,
+                "service": [
+                  {
+                    "@id": "https://hood.resourcespace.com/iiif/image/1189502",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hood.resourcespace.com/iiif/32508/canvas/0",
+      "type": "Canvas",
+      "height": 5754,
+      "width": 3691,
+      "label": {
+        "none": [
+          "Saint Mary Magdalene"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "Object ID"
+            ]
+          },
+          "value": {
+            "none": [
+              "32508"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Number"
+            ]
+          },
+          "value": {
+            "none": [
+              "D.930.3.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Name"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Artist/Maker"
+            ]
+          },
+          "value": {
+            "none": [
+              "Master F. v. S., Dutch or German, 1600 - 1620 | Unknown German or Netherlandish, German or Netherlandish | after Hendrick Goltzius, Dutch, 1558 - 1617"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Date Label"
+            ]
+          },
+          "value": {
+            "none": [
+              "about 1610"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Nationality"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dutch or German"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Title"
+            ]
+          },
+          "value": {
+            "none": [
+              "Saint Mary Magdalene"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Research Area"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Period"
+            ]
+          },
+          "value": {
+            "none": [
+              "1600-1800"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geography"
+            ]
+          },
+          "value": {
+            "none": [
+              "Place Made: Netherlands, Europe"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "none": [
+              "Silverpoint on heavy prepared paper done over in graphite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Dimensions"
+            ]
+          },
+          "value": {
+            "none": [
+              "Sheet: 7 1/4 × 4 3/4 in. (18.4 × 12 cm) | Overall: 7 5/8 × 4 3/4 × 9/16 in. (19.3 × 12.1 × 1.5 cm)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Subjects"
+            ]
+          },
+          "value": {
+            "none": [
+              "Book | Christianity | Mannerism | Saints | Mary Magdalene | Penitence | Paper | Dutch | Drawing | Copy"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Credit Line"
+            ]
+          },
+          "value": {
+            "none": [
+              "Gift of Professor Arthur Fairbanks, Class of 1886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Copyright Status"
+            ]
+          },
+          "value": {
+            "none": [
+              "Public Domain"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Use for IIIF?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/image/1189419/full/thm/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 175,
+          "width": 112,
+          "service": [
+            {
+              "@id": "https://hood.resourcespace.com/iiif/image/1189419",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "partOf": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/32508/manifest",
+          "type": "Manifest",
+          "label": {
+            "none": [
+              "N/A"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/32508/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hood.resourcespace.com/iiif/32508/annotation/0",
+              "type": "Annotation",
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "motivation": "painting",
+              "target": "https://hood.resourcespace.com/iiif/32508/canvas/0",
+              "body": {
+                "id": "https://hood.resourcespace.com/iiif/image/1189419/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5754,
+                "width": 3691,
+                "service": [
+                  {
+                    "@id": "https://hood.resourcespace.com/iiif/image/1189419",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hood.resourcespace.com/iiif/26906/canvas/0",
+      "type": "Canvas",
+      "height": 6994,
+      "width": 4567,
+      "label": {
+        "none": [
+          "Susannah and the Elders"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "Object ID"
+            ]
+          },
+          "value": {
+            "none": [
+              "26906"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Number"
+            ]
+          },
+          "value": {
+            "none": [
+              "D.930.3.3"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Name"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Artist/Maker"
+            ]
+          },
+          "value": {
+            "none": [
+              "Master F. v. S., Dutch or German, 1600 - 1620 | after René Boyvin | after Rosso Fiorentino, Italian, 1494 - 1540 | after Giulio Romano, Italian, about 1499 - 1546"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Date Label"
+            ]
+          },
+          "value": {
+            "none": [
+              "about 1610"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Nationality"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dutch or German"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Title"
+            ]
+          },
+          "value": {
+            "none": [
+              "Susannah and the Elders"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Research Area"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Period"
+            ]
+          },
+          "value": {
+            "none": [
+              "1600-1800"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geography"
+            ]
+          },
+          "value": {
+            "none": [
+              "Place Made: Netherlands, Europe"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "none": [
+              "Silverpoint on heavy prepared paper done over in graphite (bound album)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Dimensions"
+            ]
+          },
+          "value": {
+            "none": [
+              "Sheet: 7 1/4 × 4 3/4 in. (18.4 × 12 cm) | Overall: 7 5/8 × 4 3/4 × 9/16 in. (19.3 × 12.1 × 1.5 cm)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Subjects"
+            ]
+          },
+          "value": {
+            "none": [
+              "Book | Christianity | Sketch | Dutch | Drawing | Netherlands | Copy"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Credit Line"
+            ]
+          },
+          "value": {
+            "none": [
+              "Gift of Professor Arthur Fairbanks, Class of 1886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Copyright Status"
+            ]
+          },
+          "value": {
+            "none": [
+              "Public Domain"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Use for IIIF?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/image/1189492/full/thm/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 175,
+          "width": 114,
+          "service": [
+            {
+              "@id": "https://hood.resourcespace.com/iiif/image/1189492",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "partOf": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/26906/manifest",
+          "type": "Manifest",
+          "label": {
+            "none": [
+              "N/A"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/26906/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hood.resourcespace.com/iiif/26906/annotation/0",
+              "type": "Annotation",
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "motivation": "painting",
+              "target": "https://hood.resourcespace.com/iiif/26906/canvas/0",
+              "body": {
+                "id": "https://hood.resourcespace.com/iiif/image/1189492/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6994,
+                "width": 4567,
+                "service": [
+                  {
+                    "@id": "https://hood.resourcespace.com/iiif/image/1189492",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hood.resourcespace.com/iiif/40028/canvas/0",
+      "type": "Canvas",
+      "height": 7194,
+      "width": 4718,
+      "label": {
+        "none": [
+          "Seated Woman and Two Men from \"The Venetian Ball\""
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "Object ID"
+            ]
+          },
+          "value": {
+            "none": [
+              "40028"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Number"
+            ]
+          },
+          "value": {
+            "none": [
+              "D.930.3.5"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Name"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Artist/Maker"
+            ]
+          },
+          "value": {
+            "none": [
+              "Master F. v. S., Dutch or German, 1600 - 1620 | after Hendrick Goltzius, Dutch, 1558 - 1617"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Date Label"
+            ]
+          },
+          "value": {
+            "none": [
+              "about 1610"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Nationality"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dutch or German"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Title"
+            ]
+          },
+          "value": {
+            "none": [
+              "Seated Woman and Two Men from \"The Venetian Ball\""
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Research Area"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Period"
+            ]
+          },
+          "value": {
+            "none": [
+              "1600-1800"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geography"
+            ]
+          },
+          "value": {
+            "none": [
+              "Place Made: Netherlands, Europe"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "none": [
+              "Silverpoint on heavy prepared paper done over in graphite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Dimensions"
+            ]
+          },
+          "value": {
+            "none": [
+              "Sheet: 7 1/4 × 4 3/4 in. (18.4 × 12 cm) | Overall: 7 5/8 × 4 3/4 × 9/16 in. (19.3 × 12.1 × 1.5 cm)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Subjects"
+            ]
+          },
+          "value": {
+            "none": [
+              "Book | Mannerism | Woman | Couple | Couple | Sketch | Feast | Eyeglasses | Ball | Paper | Drawing | Copy"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Credit Line"
+            ]
+          },
+          "value": {
+            "none": [
+              "Gift of Professor Arthur Fairbanks, Class of 1886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Copyright Status"
+            ]
+          },
+          "value": {
+            "none": [
+              "Public Domain"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Use for IIIF?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/image/1189423/full/thm/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 175,
+          "width": 115,
+          "service": [
+            {
+              "@id": "https://hood.resourcespace.com/iiif/image/1189423",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "partOf": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/40028/manifest",
+          "type": "Manifest",
+          "label": {
+            "none": [
+              "N/A"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/40028/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hood.resourcespace.com/iiif/40028/annotation/0",
+              "type": "Annotation",
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "motivation": "painting",
+              "target": "https://hood.resourcespace.com/iiif/40028/canvas/0",
+              "body": {
+                "id": "https://hood.resourcespace.com/iiif/image/1189423/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7194,
+                "width": 4718,
+                "service": [
+                  {
+                    "@id": "https://hood.resourcespace.com/iiif/image/1189423",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hood.resourcespace.com/iiif/32151/canvas/0",
+      "type": "Canvas",
+      "height": 6503,
+      "width": 4265,
+      "label": {
+        "none": [
+          "Standing Man and Woman from \"The Venetian Ball\""
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "Object ID"
+            ]
+          },
+          "value": {
+            "none": [
+              "32151"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Number"
+            ]
+          },
+          "value": {
+            "none": [
+              "D.930.3.4"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Name"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Artist/Maker"
+            ]
+          },
+          "value": {
+            "none": [
+              "after Hendrick Goltzius, Dutch, 1558 - 1617 | Master F. v. S., Dutch or German, 1600 - 1620"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Date Label"
+            ]
+          },
+          "value": {
+            "none": [
+              "about 1610"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Nationality"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dutch"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Title"
+            ]
+          },
+          "value": {
+            "none": [
+              "Standing Man and Woman from \"The Venetian Ball\""
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Research Area"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Period"
+            ]
+          },
+          "value": {
+            "none": [
+              "1600-1800"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geography"
+            ]
+          },
+          "value": {
+            "none": [
+              "Place Made: Netherlands, Europe"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "none": [
+              "Silverpoint on heavy prepared paper done over in graphite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Dimensions"
+            ]
+          },
+          "value": {
+            "none": [
+              "Sheet: 7 1/4 × 4 3/4 in. (18.4 × 12 cm) | Overall: 7 5/8 × 4 3/4 × 9/16 in. (19.3 × 12.1 × 1.5 cm)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Subjects"
+            ]
+          },
+          "value": {
+            "none": [
+              "Book | Mannerism | Couple | Sketch | Dutch | Drawing | Netherlands | Copy"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Credit Line"
+            ]
+          },
+          "value": {
+            "none": [
+              "Gift of Professor Arthur Fairbanks, Class of 1886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Copyright Status"
+            ]
+          },
+          "value": {
+            "none": [
+              "Public Domain"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Use for IIIF?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/image/1189493/full/thm/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 175,
+          "width": 115,
+          "service": [
+            {
+              "@id": "https://hood.resourcespace.com/iiif/image/1189493",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "partOf": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/32151/manifest",
+          "type": "Manifest",
+          "label": {
+            "none": [
+              "N/A"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/32151/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hood.resourcespace.com/iiif/32151/annotation/0",
+              "type": "Annotation",
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "motivation": "painting",
+              "target": "https://hood.resourcespace.com/iiif/32151/canvas/0",
+              "body": {
+                "id": "https://hood.resourcespace.com/iiif/image/1189493/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6503,
+                "width": 4265,
+                "service": [
+                  {
+                    "@id": "https://hood.resourcespace.com/iiif/image/1189493",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hood.resourcespace.com/iiif/56702/canvas/0",
+      "type": "Canvas",
+      "height": 6510,
+      "width": 4213,
+      "label": {
+        "none": [
+          "Horse Seen from the Front"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "Object ID"
+            ]
+          },
+          "value": {
+            "none": [
+              "56702"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Number"
+            ]
+          },
+          "value": {
+            "none": [
+              "D.930.3.6"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Name"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Artist/Maker"
+            ]
+          },
+          "value": {
+            "none": [
+              "Master F. v. S., Dutch or German, 1600 - 1620 | after Adriaen Collaert, Flemish, 1560 - 1618 | after Jan van der Straet, Netherlandish, 1523 - 1605"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Date Label"
+            ]
+          },
+          "value": {
+            "none": [
+              "about 1610"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Nationality"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dutch or German"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Title"
+            ]
+          },
+          "value": {
+            "none": [
+              "Horse Seen from the Front"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Research Area"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Period"
+            ]
+          },
+          "value": {
+            "none": [
+              "1600-1800"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geography"
+            ]
+          },
+          "value": {
+            "none": [
+              "Place Made: Netherlands, Europe"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "none": [
+              "Silverpoint on heavy prepared paper done over in graphite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Dimensions"
+            ]
+          },
+          "value": {
+            "none": [
+              "Sheet: 7 1/4 × 4 3/4 in. (18.4 × 12 cm) | Overall: 7 5/8 × 4 3/4 × 9/16 in. (19.3 × 12.1 × 1.5 cm)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Subjects"
+            ]
+          },
+          "value": {
+            "none": [
+              "Book | Animal | Mannerism | Horse | Sketch | Dutch | Drawing | Netherlands | Copy"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Credit Line"
+            ]
+          },
+          "value": {
+            "none": [
+              "Gift of Professor Arthur Fairbanks, Class of 1886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Copyright Status"
+            ]
+          },
+          "value": {
+            "none": [
+              "Public Domain"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Use for IIIF?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/image/1189495/full/thm/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 175,
+          "width": 113,
+          "service": [
+            {
+              "@id": "https://hood.resourcespace.com/iiif/image/1189495",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "partOf": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/56702/manifest",
+          "type": "Manifest",
+          "label": {
+            "none": [
+              "N/A"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/56702/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hood.resourcespace.com/iiif/56702/annotation/0",
+              "type": "Annotation",
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "motivation": "painting",
+              "target": "https://hood.resourcespace.com/iiif/56702/canvas/0",
+              "body": {
+                "id": "https://hood.resourcespace.com/iiif/image/1189495/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6510,
+                "width": 4213,
+                "service": [
+                  {
+                    "@id": "https://hood.resourcespace.com/iiif/image/1189495",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hood.resourcespace.com/iiif/26457/canvas/0",
+      "type": "Canvas",
+      "height": 6604,
+      "width": 4300,
+      "label": {
+        "none": [
+          "Horse Seen from the Rear"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "Object ID"
+            ]
+          },
+          "value": {
+            "none": [
+              "26457"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Number"
+            ]
+          },
+          "value": {
+            "none": [
+              "D.930.3.2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Object Name"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Artist/Maker"
+            ]
+          },
+          "value": {
+            "none": [
+              "Master F. v. S., Dutch or German, 1600 - 1620 | after Adriaen Collaert, Flemish, 1560 - 1618 | after Jan van der Straet, Netherlandish, 1523 - 1605"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Date Label"
+            ]
+          },
+          "value": {
+            "none": [
+              "about 1610"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Nationality"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dutch or German"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Title"
+            ]
+          },
+          "value": {
+            "none": [
+              "Horse Seen from the Rear"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Research Area"
+            ]
+          },
+          "value": {
+            "none": [
+              "Drawing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Period"
+            ]
+          },
+          "value": {
+            "none": [
+              "1600-1800"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geography"
+            ]
+          },
+          "value": {
+            "none": [
+              "Place Made: Netherlands, Europe"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "none": [
+              "Silverpoint on heavy prepared paper done over in graphite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Dimensions"
+            ]
+          },
+          "value": {
+            "none": [
+              "Sheet: 7 1/4 × 4 3/4 in. (18.4 × 12 cm) | Overall: 7 5/8 × 4 3/4 × 9/16 in. (19.3 × 12.1 × 1.5 cm)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Subjects"
+            ]
+          },
+          "value": {
+            "none": [
+              "Mannerism | Horse | Sketch | Paper | Dutch | Drawing | Copy"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Credit Line"
+            ]
+          },
+          "value": {
+            "none": [
+              "Gift of Professor Arthur Fairbanks, Class of 1886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Copyright Status"
+            ]
+          },
+          "value": {
+            "none": [
+              "Public Domain"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Use for IIIF?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/image/1189491/full/thm/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 175,
+          "width": 114,
+          "service": [
+            {
+              "@id": "https://hood.resourcespace.com/iiif/image/1189491",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "partOf": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/26457/manifest",
+          "type": "Manifest",
+          "label": {
+            "none": [
+              "N/A"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/26457/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hood.resourcespace.com/iiif/26457/annotation/0",
+              "type": "Annotation",
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "motivation": "painting",
+              "target": "https://hood.resourcespace.com/iiif/26457/canvas/0",
+              "body": {
+                "id": "https://hood.resourcespace.com/iiif/image/1189491/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6604,
+                "width": 4300,
+                "service": [
+                  {
+                    "@id": "https://hood.resourcespace.com/iiif/image/1189491",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hood.resourcespace.com/iiif/90848/canvas/0",
+      "type": "Canvas",
+      "height": 6224,
+      "width": 7749,
+      "label": {
+        "none": [
+          "Master F.v.S Silverpoint Sketchbook Flyleaf (Back with monogram)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/image/1189364/full/thm/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 141,
+          "width": 175,
+          "service": [
+            {
+              "@id": "https://hood.resourcespace.com/iiif/image/1189364",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/90848/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hood.resourcespace.com/iiif/90848/annotation/0",
+              "type": "Annotation",
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "motivation": "painting",
+              "target": "https://hood.resourcespace.com/iiif/90848/canvas/0",
+              "body": {
+                "id": "https://hood.resourcespace.com/iiif/image/1189364/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6224,
+                "width": 7749,
+                "service": [
+                  {
+                    "@id": "https://hood.resourcespace.com/iiif/image/1189364",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hood.resourcespace.com/iiif/90848/canvas/1",
+      "type": "Canvas",
+      "height": 6069,
+      "width": 7892,
+      "label": {
+        "none": [
+          "Master F.v.S Silverpoint Sketchbook Flyleaf (Back with note)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/image/1189365/full/thm/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 135,
+          "width": 175,
+          "service": [
+            {
+              "@id": "https://hood.resourcespace.com/iiif/image/1189365",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/90848/canvas/1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hood.resourcespace.com/iiif/90848/annotation/1",
+              "type": "Annotation",
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "motivation": "painting",
+              "target": "https://hood.resourcespace.com/iiif/90848/canvas/1",
+              "body": {
+                "id": "https://hood.resourcespace.com/iiif/image/1189365/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6069,
+                "width": 7892,
+                "service": [
+                  {
+                    "@id": "https://hood.resourcespace.com/iiif/image/1189365",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hood.resourcespace.com/iiif/90848/canvas/2",
+      "type": "Canvas",
+      "height": 6085,
+      "width": 7880,
+      "label": {
+        "none": [
+          "Master F.v.S Silverpoint Sketchbook Flyleaf (Back Cover)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/image/1189366/full/thm/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 135,
+          "width": 175,
+          "service": [
+            {
+              "@id": "https://hood.resourcespace.com/iiif/image/1189366",
+              "@type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://hood.resourcespace.com/iiif/90848/canvas/2/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hood.resourcespace.com/iiif/90848/annotation/2",
+              "type": "Annotation",
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "motivation": "painting",
+              "target": "https://hood.resourcespace.com/iiif/90848/canvas/2",
+              "body": {
+                "id": "https://hood.resourcespace.com/iiif/image/1189366/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6085,
+                "width": 7880,
+                "service": [
+                  {
+                    "@id": "https://hood.resourcespace.com/iiif/image/1189366",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
